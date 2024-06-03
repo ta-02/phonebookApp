@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 mongoose.set("strictQuery", false);
 
-// const url = `mongodb+srv://Talal:${password}@cluster0.6ksv5fc.mongodb.net/phonebookApp?retryWrites=true&w=majority&appName=Cluster0`;
 const url = process.env.MONGODB_URL;
 
 console.log("connecting to", url);
