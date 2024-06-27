@@ -3,9 +3,11 @@
 Full stack phonebook application built with the MERN stack (MongoDB, Express, React, Node.js).
 
 ## Introduction
+
 PhoneBookApp is a simple and intuitive phonebook application that allows users to manage their contacts efficiently. The application supports adding, editing, deleting, and searching for contacts.
 
 ## Features
+
 - Add new contacts with name and phone number
 - Edit existing contacts
 - Delete contacts
@@ -13,6 +15,7 @@ PhoneBookApp is a simple and intuitive phonebook application that allows users t
 - Responsive design
 
 ## Installation
+
 1. Clone the repository:
    ```sh
    git clone https://github.com/ta-02/phonebookApp.git
@@ -20,7 +23,6 @@ PhoneBookApp is a simple and intuitive phonebook application that allows users t
    ```
 2. Install dependencies
    ```zsh
-   cd phonebookApp
    npm install
    ```
 3. Setup .env (Optional)
