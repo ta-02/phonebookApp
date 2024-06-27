@@ -32,4 +32,4 @@ PhoneBookApp is a simple and intuitive phonebook application that allows users t
    ```zsh
    npm run dev
    ```
-   Now go to 'http://localhost:3000' to see the app.
+   Now go to http://localhost:3000 to see the app.
