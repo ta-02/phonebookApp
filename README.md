@@ -1,7 +1,7 @@
 # PhoneBookApp
 
 Full stack phonebook application built with the MERN stack (MongoDB, Express, React, Node.js).
-Link to frontend code [https://github.com/ta-02/fullstackopen/tree/main/phonebook]
+Link to frontend code [[https://github.com/ta-02/fullstackopen/tree/main/phonebook]]
 
 ## Introduction
 
